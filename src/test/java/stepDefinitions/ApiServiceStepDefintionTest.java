@@ -23,7 +23,6 @@ public class ApiServiceStepDefintionTest {
 
     @Then("verify the response")
     public void verifyTheResponse() {
-
         System.out.println("need to implement");
     }
 
